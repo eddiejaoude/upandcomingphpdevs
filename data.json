@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Philip Manavopoulos",
+    "description": "Developer @coull. Formerly @loccit. Side project: @doorbell_io.",
+    "image": "https://avatars.githubusercontent.com/u/259487?v=3",
+    "twitter": "manavo",
+    "github": "manavo",
+    "linkedin": "philipmanavopoulos"
+  },
+  {
+    "name": "Jeremy Quinton",
+    "description": "South African Software Engineer with a passion for Open Source. LAMP, PHPier, Vagrant, DevOps, Chef, Running, LiverpoolFC.",
+    "image": "https://avatars.githubusercontent.com/u/1847770?v=3",
+    "twitter": "jeremyquinton",
+    "github": "jeremyquinton",
+    "linkedin": "jeremyquinton"
+  },
+  {
+    "name": "Eddie Jaoude",
+    "description": "As a passionate and Open Source Evangelist, Eddie strives continually to improve his technical skills by maintaining and contributing to many Open Source projects on GitHub",
+    "image": "https://avatars.githubusercontent.com/u/624760?v=3",
+    "twitter": "eddiejaoude",
+    "github": "eddiejaoude",
+    "linkedin": "eddiejaoude"
+  }
+]
