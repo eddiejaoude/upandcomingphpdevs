@@ -62,5 +62,15 @@
     "twitter": "eddiejaoude",
     "github": "eddiejaoude",
     "linkedin": "eddiejaoude"
+  },
+  {
+    "name": "Alister Bulman",
+    "description": "I'm a LAMP-stack dev and ops specialist, that loves to keep up with technology and write elegant code to help sites handle large scale and large numbers of users.",
+    "knownForSrc": "http://a10y.com",
+    "knownForTitle": "Tell recruiters exactly when you are available (or not!)",
+    "image": "https://avatars2.githubusercontent.com/u/173165?v=3&s=96",
+    "twitter": "alister_b",
+    "github": "alister",
+    "linkedin": "alisterbulman"
   }
 ]
