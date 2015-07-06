@@ -1,5 +1,7 @@
 # Up and Coming PHP devs
 
+[![Join the chat at https://gitter.im/eddiejaoude/upandcomingphpdevs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/eddiejaoude/upandcomingphpdevs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 followphpdevs is a great site and idea, however most of us know and follow them already. So what about Up and Coming PHP Developers or other amazing contributers who we do not all know about yet?
 
 An Open Source project, think someone should be on the list below, create a Pull Request.
