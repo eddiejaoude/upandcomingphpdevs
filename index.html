@@ -79,7 +79,7 @@
               <div class="col-md-1">
                 <img ng-src="{{ person.image }}" alt="{{person.name  }}" class="img-thumbnail">
               </div>
-              <div class="col-md-11">
+              <div class="col-md-7">
                     <span class="pull-right">
                       <a class="btn btn-primary" href="https://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"></i> {{ person.twitter }}</a>
                       <a class="btn btn-success" href="https://github.com/{{ person.github }}"><i class="fa fa-github"></i> {{ person.github }}</a>
@@ -87,6 +87,11 @@
                     </span>
                     <h3>{{ person.name }}</h3>
                     <p>{{ person.description }}</p>
+              </div>
+              <div class="col-md-4">
+                <h4>Known for</h4>
+                <p>{{ person.knownForTitle }}</p>
+                <p><a href="{{ person.knownForSrc }}">{{ person.knownForSrc }}</a></p>
               </div>
             </div>
           </li>

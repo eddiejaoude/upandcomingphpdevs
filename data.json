@@ -2,6 +2,8 @@
   {
     "name": "Dave Nash",
     "description": "Thirty-something humanist, software geek and member of the Liberal Democrats.",
+    "knownForSrc": "https://github.com/teaandcode/behat-guzzle-extension",
+    "knownForTitle": "Behat extension for Restful APIs using Guzzle",
     "image": "https://avatars.githubusercontent.com/u/1300648?v=3",
     "twitter": "knasher",
     "github": "knasher",
@@ -18,6 +20,8 @@
   {
     "name": "Philip Manavopoulos",
     "description": "Developer @coull. Formerly @loccit. Side project: @doorbell_io.",
+    "knownForSrc": "https://doorbell.io",
+    "knownForTitle": "Gather in-app user feedback for free",
     "image": "https://avatars.githubusercontent.com/u/259487?v=3",
     "twitter": "manavo",
     "github": "manavo",
@@ -42,6 +46,8 @@
   {
     "name": "Eddie Jaoude",
     "description": "As a passionate and Open Source Evangelist, Eddie strives continually to improve his technical skills by maintaining and contributing to many Open Source projects on GitHub",
+    "knownForSrc": "http://dashboardhub.io",
+    "knownForTitle": "DashboardHub / Dashboard Pipeline for your Development lifecycle. Focus on what matters to you - Github, TravisCI, Scrutinizier",
     "image": "https://avatars.githubusercontent.com/u/624760?v=3",
     "twitter": "eddiejaoude",
     "github": "eddiejaoude",
