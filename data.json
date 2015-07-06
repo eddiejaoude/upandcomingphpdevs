@@ -1,11 +1,27 @@
 [
   {
+    "name": "Anna Filina",
+    "description": "Web developer, conference organizer.",
+    "image": "https://avatars.githubusercontent.com/u/199835?v=3",
+    "twitter": "afilina",
+    "github": "afilina",
+    "linkedin": "afilina"
+  },
+  {
     "name": "Philip Manavopoulos",
     "description": "Developer @coull. Formerly @loccit. Side project: @doorbell_io.",
     "image": "https://avatars.githubusercontent.com/u/259487?v=3",
     "twitter": "manavo",
     "github": "manavo",
     "linkedin": "philipmanavopoulos"
+  },
+  {
+    "name": "James Titcumb",
+    "description": "Run the @phphants user group & @phpsouthcoast conference. Work at @RoaveTeam. Have lovely children and wife. Life is great isn't it?",
+    "image": "https://avatars.githubusercontent.com/u/496145?v=3",
+    "twitter": "asgrim",
+    "github": "asgrim",
+    "linkedin": "jamestitcumb"
   },
   {
     "name": "Jeremy Quinton",
