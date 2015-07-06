@@ -1,5 +1,15 @@
 [
   {
+    "name": "Matthieu Napoli",
+    "description": "Talking mainly about PHP & web app development.",
+    "knownForSrc": "https://github.com/PHP-DI/PHP-DI",
+    "knownForTitle": "The dependency injection container for humans",
+    "image": "https://avatars.githubusercontent.com/u/720328?v=3",
+    "twitter": "matthieunapoli",
+    "github": "mnapoli",
+    "linkedin": "matthieunapoli"
+  },
+  {
     "name": "Dave Nash",
     "description": "Thirty-something humanist, software geek and member of the Liberal Democrats.",
     "knownForSrc": "https://github.com/teaandcode/behat-guzzle-extension",
