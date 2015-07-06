@@ -7,7 +7,8 @@
     "image": "https://avatars.githubusercontent.com/u/720328?v=3",
     "twitter": "matthieunapoli",
     "github": "mnapoli",
-    "linkedin": "matthieunapoli"
+    "linkedin": "matthieunapoli",
+    "tagCloud": ["Coder"]
   },
   {
     "name": "Dave Nash",
@@ -17,7 +18,8 @@
     "image": "https://avatars.githubusercontent.com/u/1300648?v=3",
     "twitter": "knasher",
     "github": "knasher",
-    "linkedin": "knasher"
+    "linkedin": "knasher",
+    "tagCloud": ["Coder"]
   },
   {
     "name": "Anna Filina",
@@ -25,7 +27,8 @@
     "image": "https://avatars.githubusercontent.com/u/199835?v=3",
     "twitter": "afilina",
     "github": "afilina",
-    "linkedin": "afilina"
+    "linkedin": "afilina",
+    "tagCloud": ["Speaker", "Organsier"]
   },
   {
     "name": "Philip Manavopoulos",
@@ -35,7 +38,8 @@
     "image": "https://avatars.githubusercontent.com/u/259487?v=3",
     "twitter": "manavo",
     "github": "manavo",
-    "linkedin": "philipmanavopoulos"
+    "linkedin": "philipmanavopoulos",
+    "tagCloud": ["Coder"]
   },
   {
     "name": "James Titcumb",
@@ -43,7 +47,8 @@
     "image": "https://avatars.githubusercontent.com/u/496145?v=3",
     "twitter": "asgrim",
     "github": "asgrim",
-    "linkedin": "jamestitcumb"
+    "linkedin": "jamestitcumb",
+    "tagCloud": ["Speaker", "Coder"]
   },
   {
     "name": "Jeremy Quinton",
@@ -51,7 +56,8 @@
     "image": "https://avatars.githubusercontent.com/u/1847770?v=3",
     "twitter": "jeremyquinton",
     "github": "jeremyquinton",
-    "linkedin": "jeremyquinton"
+    "linkedin": "jeremyquinton",
+    "tagCloud": ["Speaker", "Coder"]
   },
   {
     "name": "Eddie Jaoude",
@@ -61,7 +67,8 @@
     "image": "https://avatars.githubusercontent.com/u/624760?v=3",
     "twitter": "eddiejaoude",
     "github": "eddiejaoude",
-    "linkedin": "eddiejaoude"
+    "linkedin": "eddiejaoude",
+    "tagCloud": ["Coder", "Speaker"]
   },
   {
     "name": "Alister Bulman",
@@ -71,6 +78,7 @@
     "image": "https://avatars2.githubusercontent.com/u/173165?v=3&s=96",
     "twitter": "alister_b",
     "github": "alister",
-    "linkedin": "alisterbulman"
+    "linkedin": "alisterbulman",
+    "tagCloud": ["Coder"]
   }
 ]
