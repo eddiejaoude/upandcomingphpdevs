@@ -14,6 +14,8 @@ An Open Source project, think someone should be on the list below, create a Pull
   {
     "name": "Eddie Jaoude",
     "description": "As a passionate and Open Source Evangelist, Eddie strives continually to improve his technical skills by maintaining and contributing to many Open Source projects on GitHub",
+    "knownForSrc": "http://dashboardhub.io",
+    "knownForTitle": "DashboardHub / Dashboard Pipeline for your Development lifecycle. Focus on what matters to you - Github, TravisCI, Scrutinizier",
     "image": "https://avatars.githubusercontent.com/u/624760?v=3",
     "twitter": "eddiejaoude",
     "github": "eddiejaoude",
