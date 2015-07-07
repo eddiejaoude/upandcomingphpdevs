@@ -40,7 +40,8 @@
 
           <div class="input-group">
             <div class="input-group-addon">Search</div>
-            <input ng-model="query" type="text" class="form-control" placeholder="type...">
+            <input ng-model="query" type="text" class="form-control" placeholder="type...eg. Speaker, Coder etc">
+            <div class="input-group-addon">{{ total.length }}</div>
           </div>
         </div>
 
@@ -79,7 +80,7 @@
     <div class="row">
       <div class="col-md-12">
         <ul class="list-group">
-          <li class="list-group-item" ng-repeat="person in people | filter:query">
+          <li class="list-group-item" ng-repeat="person in people | filter:query as total">
             <div class="row">
               <div class="col-md-1">
                 <img ng-src="{{ person.image }}" alt="{{person.name  }}" class="img-thumbnail">
