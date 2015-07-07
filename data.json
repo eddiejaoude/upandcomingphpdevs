@@ -1,5 +1,16 @@
 [
   {
+    "name": "James Brooks",
+    "description": "I make @CachetHQ. Web developer.",
+    "knownForSrc": "https://cachethq.io",
+    "knownForTitle": "Beautiful & simple service statuses. An open source status page system, for everyone.",
+    "image": "https://avatars.githubusercontent.com/u/246103?v=3",
+    "twitter": "jbrooksuk",
+    "github": "jbrooksuk",
+    "linkedin": "jbrooksuk",
+    "tagCloud": ["Coder"]
+  },
+  {
     "name": "Matthieu Napoli",
     "description": "Talking mainly about PHP & web app development.",
     "knownForSrc": "https://github.com/PHP-DI/PHP-DI",
