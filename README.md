@@ -21,7 +21,8 @@ An Open Source project, think someone should be on the list below, create a Pull
     "image": "https://avatars.githubusercontent.com/u/624760?v=3",
     "twitter": "eddiejaoude",
     "github": "eddiejaoude",
-    "linkedin": "eddiejaoude"
+    "linkedin": "eddiejaoude",
+    "tagCloud": ["Speaker", "Coder"]
   }
   ```
 
