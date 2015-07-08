@@ -1,5 +1,16 @@
 [
   {
+    "name": "Richard Holloway",
+    "description": "Senior Web Developer at http://Protected.co.uk , PHP Hampshire Organiser.",
+    "knownForSrc": "http://www.phphants.co.uk",
+    "knownForTitle": "PHP Hampshire is a PHP User Group aiming to help people learn, share our knowledge and support the PHP community in Hampshire.",
+    "image": "https://avatars.githubusercontent.com/u/1410725?v=3",
+    "twitter": "richardjh_org",
+    "github": "richardjh",
+    "linkedin": "",
+    "tagCloud": ["Coder", "Organiser"]
+  },
+  {
     "name": "James Brooks",
     "description": "I make @CachetHQ. Web developer.",
     "knownForSrc": "https://cachethq.io",
