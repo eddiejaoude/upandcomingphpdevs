@@ -102,5 +102,16 @@
     "github": "alister",
     "linkedin": "alisterbulman",
     "tagCloud": ["Coder"]
+  },
+  {
+    "name": "Mark Railton",
+    "description": "I'm a backend developer working in the web hosting industry.  Outside of my day job I'm also a mentor for students going through Code Institute bootcamp.",
+    "knownForSrc": "http://joind.in",
+    "knownForTitle": "Core contributor and maintainer of joind.in project",
+    "image": "https://avatars2.githubusercontent.com/u/6123557?v=3&s=96",
+    "twitter": "railto",
+    "github": "railto",
+    "linkedin": "markrailton",
+    "tagCloud": ["Coder"]
   }
 ]
